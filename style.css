@@ -1,0 +1,27 @@
+body {
+    background-color: rosybrown;
+    margin-top: 30px;
+    background-image: url(https://www.forestfoundation.ph/wp-content/uploads/2021/11/Landscapes-2-Banner.jpg);
+    font-family: bold courier;
+    text-align: justify-all;
+    margin: 0;
+
+}
+
+h1,h5 {
+    background-color: sandybrown;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+}
+
+.table-img 
+{
+        width: 250px;
+
+    }
+
+a{
+    color: black;
+}
